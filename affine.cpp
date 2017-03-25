@@ -45,12 +45,12 @@ string decrypt(string cipher_text)
     return m;
 }
 
-
-int main()
-{
-    string message;
-    cout << "Enter the message: ";
-    cin >> message;
-    cout << "Encrypted Message of "<< message << "is : " << encrypt(message)<<endl;
-    cout << "Decrypted Message of "<< encrypt(message) << "is: " << decrypt(encrypt(message));
-}
+// Main function for checking the encrypt and decrypt functions above
+// int main()
+// {
+//     string message;
+//     cout << "Enter the message: ";
+//     cin >> message;
+//     cout << "Encrypted Message of "<< message << "is : " << encrypt(message)<<endl;
+//     cout << "Decrypted Message of "<< encrypt(message) << "is: " << decrypt(encrypt(message));
+// }
