@@ -7,3 +7,5 @@ Some implementations from Cryptography and Cryptanalysis.
 - [x] Eulerphi function
 - [ ] RSA Cryptosysytem
 - [ ] Vigenere cipher
+- [ ] DES Implementation
+- [ ] Statistical attacks
