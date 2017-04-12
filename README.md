@@ -6,6 +6,6 @@ Some implementations from Cryptography and Cryptanalysis.
 - [x] Affine cipher
 - [x] Eulerphi function
 - [ ] RSA Cryptosysytem
-- [ ] Vigenere cipher
+- [x] Vigenere cipher
 - [ ] DES Implementation
 - [ ] Statistical attacks
