@@ -4,6 +4,7 @@ Some implementations from Cryptography and Cryptanalysis.
 - [x] Caesar Cipher
 - [x] Brute force attack on Caesar Cipher
 - [x] Affine cipher
+- [x] Brute force attack on Affine Cipher
 - [x] Eulerphi function
 - [ ] RSA Cryptosysytem
 - [x] Vigenere cipher
