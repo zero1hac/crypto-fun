@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 
-int phi,M,n,e,d,C,FLAG;
 
 int encrypt(int message, int e, int n){
   int cipher=1;
