@@ -10,7 +10,10 @@ Some implementations from Cryptography and Cryptanalysis.
 - [x] Vigenere cipher
 - [ ] DES Implementation
 - [ ] Statistical attacks
+<<<<<<< HEAD
+- [ ] Hill Cipher
+- [ ] El Gammal cryptosystem
+=======
 - [x] Euclidean Algorithm
 - [x] Extended Euclidean for modulo inverse
-- [ ] Hill Cipher
-- [ ] El Gammal cryptosytem
+>>>>>>> 38770397850cb7b5c803de6a112ec36cb852f31d
