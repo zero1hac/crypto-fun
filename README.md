@@ -10,3 +10,5 @@ Some implementations from Cryptography and Cryptanalysis.
 - [x] Vigenere cipher
 - [ ] DES Implementation
 - [ ] Statistical attacks
+- [ ] Hill Cipher
+- [ ] El Gammal cryptosystem
