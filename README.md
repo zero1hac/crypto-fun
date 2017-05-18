@@ -9,7 +9,7 @@ Some implementations from Cryptography and Cryptanalysis.
 - [x] RSA Cryptosysytem
 - [x] Vigenere cipher
 - [ ] DES Implementation
-- [ ] Statistical attacks
+- [x] Statistical attacks
 - [x] Euclidean Algorithm
 - [x] Extended Euclidean for modulo inverse
 - [ ] Hill Cipher
