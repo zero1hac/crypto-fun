@@ -8,7 +8,7 @@ Some implementations from Cryptography and Cryptanalysis.
 - [x] Eulerphi function
 - [x] RSA Cryptosysytem
 - [x] Vigenere cipher
-- [ ] DES Implementation
+- [x] DES Implementation
 - [x] Statistical attacks
 - [x] Euclidean Algorithm
 - [x] Extended Euclidean for modulo inverse
