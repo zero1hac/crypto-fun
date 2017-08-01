@@ -12,6 +12,6 @@ Some implementations from Cryptography and Cryptanalysis.
 - [x] Statistical attacks
 - [x] Euclidean Algorithm
 - [x] Extended Euclidean for modulo inverse
-- [ ] Hill Cipher
+- [x] Hill Cipher
 - [ ] El Gammal cryptosytem
 - [ ] Diffie Hellman key exchange implementation
