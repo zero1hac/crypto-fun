@@ -14,4 +14,4 @@ Some implementations from Cryptography and Cryptanalysis.
 - [x] Extended Euclidean for modulo inverse
 - [x] Hill Cipher
 - [x] El Gammal cryptosytem
-- [ ] Diffie Hellman key exchange implementation
+- [x] Diffie Hellman key exchange implementation
